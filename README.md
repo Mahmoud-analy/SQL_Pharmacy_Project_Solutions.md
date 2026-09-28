@@ -14,4 +14,4 @@
 - مقارنة الهامش الربحي بين المنتجات الجنيسة والمنتجات ذات العلامة التجارية
 - المنتجات المباعة في دولة ومش في دولة تانية (`EXCEPT`)، والصيدليات اللي بتبيع فئتين مع بعض (`INTERSECT`)
 
-**المفاهيم:** `Star Schema` · `Multiple JOINs` · `CASE WHEN` · `CAST` · `Set Operators`
+**المفاهيم:** `Star Schema` · `Multiple JOINs` · `CAST` · `Set Operators`
